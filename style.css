@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+}
+
+.carousel-caption{
+	bottom:400px!important;
+}
+
+/* .bg-dark {
+    background-color: crimson;
+} */
+
+nav.navbar.navbar-expand-lg.navbar-light {
+    background-color: crimson;
+}
